@@ -1,0 +1,44 @@
+body {
+    font-family: 'Garamond', serif; /* Change to Garamond font */
+    margin: 20px;
+    padding: 0;
+    background-color: rgb(53, 11, 240);
+    color: white; 
+}
+section {
+    border: 2px solid rgba(255, 255, 255, 0.295);
+    padding: 10px; 
+    margin-bottom: 20px; 
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+    color:aliceblue;
+    background-color: #23023a;
+    padding: 20px;  
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: white;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+a {
+    color:#ffcc00;;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
